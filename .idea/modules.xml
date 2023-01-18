@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ordering.iml" filepath="$PROJECT_DIR$/Ordering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarySearch/binarySearch.iml" filepath="$PROJECT_DIR$/binarySearch/binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubbleMethod/bubbleMethod.iml" filepath="$PROJECT_DIR$/bubbleMethod/bubbleMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertionMethod/insertionMethod.iml" filepath="$PROJECT_DIR$/insertionMethod/insertionMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sequentialSearch/sequentialSearch.iml" filepath="$PROJECT_DIR$/sequentialSearch/sequentialSearch.iml" />
+    </modules>
+  </component>
+</project>
